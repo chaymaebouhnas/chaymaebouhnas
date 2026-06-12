@@ -1,7 +1,7 @@
-# 👋 Bienvenue sur mon profil ! 
+# Bienvenue sur mon profil ! 
 
 <div align="center">
-  <h2>🎓 Chaymae Bouhnas</h2>
+  <h2>Chaymae Bouhnas</h2>
   <h3>Ingénieure en Big Data & Intelligence Artificielle</h3>
   
   [![Email](https://img.shields.io/badge/Email-chaymaebouhnas2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaymaebouhnas2@gmail.com)
@@ -11,65 +11,34 @@
 
 ---
 
-## 🎯 À Propos
+## À Propos
 
 Ingénieure en Big Data et Intelligence Artificielle avec une solide formation technique et une expérience pratique développée à travers des projets académiques et professionnels. Motivée, autonome et dynamique, je possède un esprit analytique et une forte capacité d'adaptation.
 
 ---
 
-## 🏆 Distinctions & Achievements
-
-- 🥇 **1er Prix - Hackathon Régional** : IA, Énergie et Eau pour un avenir durable (Solution d'Hydroponie Intelligente basée sur l'IA et l'IoT)
-- 🌟 **Meilleure Idée Innovante** - Journée Nationale de l'Innovation Technologique (JNIT) à l'École Mohammadia d'Ingénieurs
-- 📊 **Media Manager** - AI Geeks Club
-- 🎨 **Design Manager** - Infotech Club & Chess Club
-
----
-
-## 💼 Expérience Professionnelle
-
-### 🏭 **Ravago Manufacturing Morocco** | *Big Data & IA*
-**Février 2026 - Juillet 2026 | Tanger Med Automotive**
-- Conception et déploiement d'une plateforme industrielle temps réel combinant Big Data, IA et IoT
-- Architecture de traitement de données : OPC-UA, Kafka, Flink, ClickHouse, Python, Docker
-- Modèles de prédiction énergétique et algorithmes génétiques d'optimisation
-
-### ☁️ **Cloud Marketing Hub** | *Big Data & Machine Learning*
-**Juillet 2025 - Septembre 2025 | Tanger**
-- Détection de clics frauduleux dans les campagnes publicitaires digitales
-- Pipeline Big Data avec Apache Spark, Hadoop, Impala et Python
-- Amélioration de la fiabilité des indicateurs de performance marketing
-
-### 🚗 **Renault Group** | *Intelligence Artificielle*
-**Juillet 2024 - Août 2024 | Tanger**
-- Développement de modèles IA pour la détection automatique d'anomalies
-- Contrôle qualité des pièces automobiles en atelier d'emboutissage
-- Analyse des données industrielles pour l'optimisation des processus
-
----
-
 ## 📚 Mes Projets
 
-### 🧠 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 - **Détection de Deepfakes** - CNN, LSTM et transfer learning
 - **Détection de Cancer** - Classification médicale avec TensorFlow
 - **Chatbot Intelligent** - NLP et traitement du langage naturel
 - **Vision par Ordinateur** - YOLO, segmentation sémantique
 - **Système de Recommandation** - Filtrage collaboratif
 
-### 📊 Big Data & Cloud
+### Big Data & Cloud
 - **Analyse Temps Réel** - Données des réseaux sociaux
 - **Architecture Cloud Scalable** - AWS, Spark, Kafka
 - **Cloud Souverain Marocain** - Infrastructure cloud marocaine
 
-### 🎨 Business Intelligence
+### Business Intelligence
 - **Dashboards Interactifs** - Power BI, Shiny
 - **Visualisation Avancée** - KPI et reporting décisionnel
 - **Web Mining** - Recommandation de stages
 
 ---
 
-## 💻 Stack Technologique
+## 💻Stack Technologique
 
 <div align="center">
 
@@ -128,39 +97,9 @@ Ingénieure en Big Data et Intelligence Artificielle avec une solide formation t
 
 ---
 
-## 🎓 Formation Académique
-
-### 🏆 **École Nationale des Sciences Appliquées de Tétouan (ENSAte)**
-*Cycle Ingénieur : Big Data & Intelligence Artificielle*
-**Septembre 2020 - Aujourd'hui | Tétouan**
-
-### 📚 **Lycée Jaber Ben Hayan**
-*Baccalauréat Sciences Physiques et Chimiques*
-**2019 - 2020 | Tétouan**
-
----
-
-## 🌐 Langues
-
-![Arabe](https://img.shields.io/badge/Arabe-Langue%20maternelle-red?style=for-the-badge)
-![Français](https://img.shields.io/badge/Français-Professionnel-blue?style=for-the-badge)
-![Anglais](https://img.shields.io/badge/Anglais-Professionnel-green?style=for-the-badge)
-![Allemand](https://img.shields.io/badge/Allemand-Interm%C3%A9diaire-orange?style=for-the-badge)
-
----
-
-## 🚀 Soft Skills
-
-💡 **Analyse orientée données** | 🔧 **Résolution de problèmes** | 👥 **Travail en équipe**  
-🎨 **Innovation & Créativité** | 🎯 **Autonomie** | 📊 **Pensée stratégique**
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaymaebouhnas&show_icons=true&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaymaebouhnas&layout=compact&theme=dark)
 
