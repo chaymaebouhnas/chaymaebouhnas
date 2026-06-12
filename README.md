@@ -7,7 +7,6 @@
   [![Email](https://img.shields.io/badge/Email-chaymaebouhnas2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaymaebouhnas2@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaymae%20Bouhnas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaymae-bouhnas)
   [![Kaggle](https://img.shields.io/badge/Kaggle-chaymaebouhnas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/chaymaebouhnas)
-  [![Phone](https://img.shields.io/badge/Phone-0644455395-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0644455395)
 </div>
 
 ---
