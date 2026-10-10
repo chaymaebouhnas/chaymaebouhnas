@@ -37,7 +37,7 @@ I design and deploy end-to-end systems that combine data engineering, machine le
 <table align="center">
 <tr>
 <td align="center">🏆<br/><b>1st Prize</b><br/><sub>Regional Hackathon — AI/IoT hydroponics solution</sub></td>
-<td align="center">🎖️<br/><b>Encouragement Prize</b><br/><sub>National innovation award</sub></td>
+<td align="center">🎖️<br/><b>Best Innovative Idea</b><br/><sub>National innovation award</sub></td>
 <td align="center">🤝<br/><b>Community Leadership</b><br/><sub>Media & design roles in university tech communities</sub></td>
 </tr>
 </table>
@@ -74,13 +74,22 @@ I design and deploy end-to-end systems that combine data engineering, machine le
 <img src="https://img.shields.io/badge/Docker-C9A2EC?style=for-the-badge&logo=docker&logoColor=220a31" height="36"/>
 </td></tr>
 
-<tr><td align="center" colspan="2"><h3>BI & Tools</h3></td></tr>
+<tr><td align="center" colspan="2"><h3>Business Intelligence</h3></td></tr>
 <tr><td align="center" colspan="2">
 <img src="https://img.shields.io/badge/Power%20BI-C9A2EC?style=for-the-badge&logo=powerbi&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Excel-C9A2EC?style=for-the-badge&logo=microsoftexcel&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/DAX-C9A2EC?style=for-the-badge&logo=powerbi&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Power%20Query-C9A2EC?style=for-the-badge&logo=powerbi&logoColor=220a31" height="36"/>
+</td></tr>
+
+<tr><td align="center" colspan="2"><h3>Tools</h3></td></tr>
+<tr><td align="center" colspan="2">
 <img src="https://img.shields.io/badge/Flask-C9A2EC?style=for-the-badge&logo=flask&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/React-C9A2EC?style=for-the-badge&logo=react&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/Solidity-C9A2EC?style=for-the-badge&logo=solidity&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/Git-C9A2EC?style=for-the-badge&logo=git&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/GitHub-C9A2EC?style=for-the-badge&logo=github&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Jupyter-C9A2EC?style=for-the-badge&logo=jupyter&logoColor=220a31" height="36"/>
 </td></tr>
 </table>
 
@@ -120,10 +129,6 @@ I design and deploy end-to-end systems that combine data engineering, machine le
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=chaymaebouhnas&background=0d1117&border=3a1259&ring=c9a2ec&fire=c9a2ec&currStreakLabel=c9a2ec&sideLabels=e9d6f7&currStreakNum=e9d6f7&sideNums=e9d6f7&dates=b988e6"/>
-</div>
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=chaymaebouhnas&no-frame=true&row=1&column=6&margin-w=8&title_color=c9a2ec&icon_color=c9a2ec&text_color=e9d6f7&bg_color=0d1117&border_color=3a1259"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
