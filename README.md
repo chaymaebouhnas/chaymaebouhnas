@@ -23,7 +23,6 @@
 
 ```yaml
 role: Big Data & AI Engineer
-focus: ["real-time data pipelines", "deep learning", "computer vision", "industrial AI"]
 languages: [Arabic, French, English, German]
 based_in: Tétouan, Morocco
 ```
@@ -36,7 +35,7 @@ I design and deploy end-to-end systems that combine data engineering, machine le
 
 <table align="center">
 <tr>
-<td align="center">🏆<br/><b>1st Prize</b><br/><sub>Regional Hackathon — AI/IoT hydroponics solution</sub></td>
+<td align="center">🏆<br/><b>1st Prize</b><br/><sub>Regional Hackathon</sub></td>
 <td align="center">🎖️<br/><b>Best Innovative Idea</b><br/><sub>National innovation award</sub></td>
 <td align="center">🤝<br/><b>Community Leadership</b><br/><sub>Media & design roles in university tech communities</sub></td>
 </tr>
@@ -49,47 +48,64 @@ I design and deploy end-to-end systems that combine data engineering, machine le
 <table align="center">
 <tr><td align="center" colspan="2"><h3>Languages</h3></td></tr>
 <tr><td align="center" colspan="2">
-<img src="https://img.shields.io/badge/Python-C9A2EC?style=for-the-badge&logo=python&logoColor=220a31&labelColor=C9A2EC" height="36"/>
-<img src="https://img.shields.io/badge/R-C9A2EC?style=for-the-badge&logo=r&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Python-C9A2EC?style=for-the-badge&logo=python&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/SQL-C9A2EC?style=for-the-badge&logo=postgresql&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/JavaScript-C9A2EC?style=for-the-badge&logo=javascript&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/C-C9A2EC?style=for-the-badge&logo=c&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Solidity-C9A2EC?style=for-the-badge&logo=solidity&logoColor=220a31" height="36"/>
 </td></tr>
 
 <tr><td align="center" colspan="2"><h3>AI & Machine Learning</h3></td></tr>
 <tr><td align="center" colspan="2">
-<img src="https://img.shields.io/badge/TensorFlow-C9A2EC?style=for-the-badge&logo=tensorflow&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/PyTorch-C9A2EC?style=for-the-badge&logo=pytorch&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/TensorFlow-C9A2EC?style=for-the-badge&logo=tensorflow&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Keras-C9A2EC?style=for-the-badge&logo=keras&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-C9A2EC?style=for-the-badge&logo=huggingface&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/Scikit--learn-C9A2EC?style=for-the-badge&logo=scikit-learn&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/HuggingFace-C9A2EC?style=for-the-badge&logo=huggingface&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/OpenCV-C9A2EC?style=for-the-badge&logo=opencv&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/NLP-C9A2EC?style=for-the-badge&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/LLMs-C9A2EC?style=for-the-badge&logoColor=220a31" height="36"/>
 </td></tr>
 
 <tr><td align="center" colspan="2"><h3>Big Data & Cloud</h3></td></tr>
 <tr><td align="center" colspan="2">
-<img src="https://img.shields.io/badge/Spark-C9A2EC?style=for-the-badge&logo=apachespark&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-C9A2EC?style=for-the-badge&logo=apachespark&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Spark%20Streaming-C9A2EC?style=for-the-badge&logo=apachespark&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/Kafka-C9A2EC?style=for-the-badge&logo=apachekafka&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/Hadoop-C9A2EC?style=for-the-badge&logo=apachehadoop&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Flink-C9A2EC?style=for-the-badge&logo=apacheflink&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Impala-C9A2EC?style=for-the-badge&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Databricks-C9A2EC?style=for-the-badge&logo=databricks&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Snowflake-C9A2EC?style=for-the-badge&logo=snowflake&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/BigQuery-C9A2EC?style=for-the-badge&logo=googlebigquery&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/ClickHouse-C9A2EC?style=for-the-badge&logo=clickhouse&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/AWS-C9A2EC?style=for-the-badge&logo=amazonaws&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/Docker-C9A2EC?style=for-the-badge&logo=docker&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Kinesis-C9A2EC?style=for-the-badge&logo=amazonaws&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Lambda-C9A2EC?style=for-the-badge&logo=amazonaws&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/S3-C9A2EC?style=for-the-badge&logo=amazonaws&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/DynamoDB-C9A2EC?style=for-the-badge&logo=amazonaws&logoColor=220a31" height="36"/>
 </td></tr>
 
 <tr><td align="center" colspan="2"><h3>Business Intelligence</h3></td></tr>
 <tr><td align="center" colspan="2">
 <img src="https://img.shields.io/badge/Power%20BI-C9A2EC?style=for-the-badge&logo=powerbi&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/Excel-C9A2EC?style=for-the-badge&logo=microsoftexcel&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/DAX-C9A2EC?style=for-the-badge&logo=powerbi&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/Power%20Query-C9A2EC?style=for-the-badge&logo=powerbi&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/SSIS-C9A2EC?style=for-the-badge&logo=microsoftsqlserver&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/SSAS-C9A2EC?style=for-the-badge&logo=microsoftsqlserver&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/SQL%20Server-C9A2EC?style=for-the-badge&logo=microsoftsqlserver&logoColor=220a31" height="36"/>
 </td></tr>
 
 <tr><td align="center" colspan="2"><h3>Tools</h3></td></tr>
 <tr><td align="center" colspan="2">
-<img src="https://img.shields.io/badge/Flask-C9A2EC?style=for-the-badge&logo=flask&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/React-C9A2EC?style=for-the-badge&logo=react&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/Solidity-C9A2EC?style=for-the-badge&logo=solidity&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-C9A2EC?style=for-the-badge&logo=apacheairflow&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Docker-C9A2EC?style=for-the-badge&logo=docker&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-C9A2EC?style=for-the-badge&logo=docker&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/Git-C9A2EC?style=for-the-badge&logo=git&logoColor=220a31" height="36"/>
 <img src="https://img.shields.io/badge/GitHub-C9A2EC?style=for-the-badge&logo=github&logoColor=220a31" height="36"/>
-<img src="https://img.shields.io/badge/Jupyter-C9A2EC?style=for-the-badge&logo=jupyter&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Linux-C9A2EC?style=for-the-badge&logo=linux&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/FastAPI-C9A2EC?style=for-the-badge&logo=fastapi&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Django-C9A2EC?style=for-the-badge&logo=django&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/Flask-C9A2EC?style=for-the-badge&logo=flask&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/React-C9A2EC?style=for-the-badge&logo=react&logoColor=220a31" height="36"/>
+<img src="https://img.shields.io/badge/MongoDB-C9A2EC?style=for-the-badge&logo=mongodb&logoColor=220a31" height="36"/>
 </td></tr>
 </table>
 
