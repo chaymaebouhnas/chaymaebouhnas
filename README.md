@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C9A2EC&center=true&vCenter=true&width=640&lines=Designing+real-time+data+pipelines+and+intelligent+systems;Experienced+in+Big+Data%2C+Machine+Learning+and+Industrial+AI;Skilled+in+Deep+Learning%2C+Computer+Vision+and+NLP;Building+scalable%2C+production-ready+AI+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C9A2EC&center=true&vCenter=true&width=640&lines=Designing+real-time+data+pipelines+and+intelligent+systems;Big+Data+%C2%B7+Machine+Learning+%C2%B7+Industrial+AI;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;Building+scalable%2C+production-ready+AI+systems)](https://git.io/typing-svg)
 
 <br/>
 
