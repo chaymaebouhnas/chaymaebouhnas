@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3a1259,100:7d35b8&height=180&section=header&text=Chaymae%20Bouhnas&fontSize=46&fontColor=c9a2ec&fontAlignY=38&desc=Big%20Data%20%26%20Artificial%20Intelligence%20Engineer&descAlignY=58&descSize=18&descColor=e9d6f7&animation=fadeIn" />
+# Chaymae Bouhnas
+
+### Big Data & Artificial Intelligence Engineer
 
 <br/>
 
@@ -148,6 +150,8 @@ Open to engineering opportunities, collaborations and data-driven challenges.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A2EC?style=for-the-badge&logo=linkedin&logoColor=220a31)](https://linkedin.com/in/chaymae-bouhnas)
 [![Kaggle](https://img.shields.io/badge/Kaggle-C9A2EC?style=for-the-badge&logo=kaggle&logoColor=220a31)](https://kaggle.com/chaymaebouhnas)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7d35b8,50:3a1259,100:0d1117&height=100&section=footer" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 </div>
