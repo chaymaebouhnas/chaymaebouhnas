@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C9A2EC&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+real-time+intelligence;Big+Data+%2B+Machine+Learning+%2B+Industrial+AI;Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+MLOps;Open+to+new+engineering+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C9A2EC&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+real-time+intelligence;Big+Data+%2B+Machine+Learning+%2B+Industrial+AI;Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+MLOps;Building+scalable%2C+production-ready+AI+systems)](https://git.io/typing-svg)
 
 <br/>
 
